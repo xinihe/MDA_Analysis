@@ -1,0 +1,5 @@
+# Ignore the virtual environment folder
+mda_venv/
+
+# Ignore folders whose names start with '20'
+20*/ 
